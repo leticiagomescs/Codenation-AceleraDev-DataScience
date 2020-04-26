@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img width="276" alt="logo" src="https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/blob/master/Desafio/math-1500720_640.jpg" />
+  <img src="https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/blob/master/Desafio/math-1500720_640.jpg" />
 </p>
 
 # Descubra as melhores notas de matemática do ENEM 2016
