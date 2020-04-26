@@ -6,12 +6,16 @@
 
 ## Seleção
 
-### Desafio: Prever a nota de matemática do ENEM de 2016:
+### [Desafio](https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/tree/master/Desafio)
 
-......
+Criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016. Para isso, usará Python, Pandas, Sklearn e Regression.
 
-Esse desafio foi o processo seletivo para participação do programa.
+Esse desafio foi o processo seletivo para participação do programa de aceleração em ciência de dados promovido pelo [Codenation](https://www.codenation.dev/).
+
+A precisão alcançada pelo algorítimo de predição desenvolvido foi de 93,56% 
 
 ## AceleraDev
 
 ### Semana 1:
+
+
