@@ -1,3 +1,5 @@
+<img width="184" alt="logo" src="https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/blob/master/Desafio/math-1500720_640.jpg">
+
 # Descubra as melhores notas de matemática do ENEM 2016
 
 Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016. Para isso, usará Python, Pandas, Sklearn e Regression.
