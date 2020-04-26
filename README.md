@@ -59,7 +59,7 @@ Esse desafio foi o processo seletivo para participação do programa de acelera�
 
 A precisão alcançada pelo algorítimo de predição desenvolvido foi de 93,56% 
 
-## AceleraDev
+## Imersão 
 
 ### [Semana 1](https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/tree/master/Semana%2001)
 
