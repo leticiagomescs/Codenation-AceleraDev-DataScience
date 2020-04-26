@@ -26,7 +26,7 @@
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#licença">Licença</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#conteudo">Conteúdo</a>
+  <a href="#conteúdo">Conteúdo</a>
 </p>
 
 # Programa
