@@ -61,6 +61,6 @@ A precisão alcançada pelo algorítimo de predição desenvolvido foi de 93,56%
 
 ## AceleraDev
 
-### Semana 1:
+### [Semana 1](https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/tree/master/Semana%2001)
 
 
