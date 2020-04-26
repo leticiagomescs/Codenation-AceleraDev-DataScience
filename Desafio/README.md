@@ -7,14 +7,14 @@ Você deverá criar um modelo para prever a nota da prova de matemática de quem
 
 Neste desafio você aprenderá:
 
-- Python
-- Pandas
-- Sklearn
+- [Python](https://www.python.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Sklearn](https://scikit-learn.org/)
 - Regression
 
 ## Requisitos
 
-Você precisará de python 3.6 (ou superior) e do gerenciador de pacotes pip.
+Você precisará de [python 3.6](https://www.python.org/downloads/release/python-368/) (ou superior) e do gerenciador de pacotes pip.
 
 O recomendado é você utilizar um [ambiente virtual](https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais). Para isto, execute os comandos como no exemplo abaixo:
 
