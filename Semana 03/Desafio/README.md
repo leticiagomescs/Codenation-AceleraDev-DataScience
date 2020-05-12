@@ -49,5 +49,4 @@ Descrição dos dados:
 Obs: Os dados são fictícios, mas tentam representar a realidade de uma base de clientes de um produto SaaS. 
 
 
-
-
+**O código desenvolvido obteve taxa de acerto de: 100%**
